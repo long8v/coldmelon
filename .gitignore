@@ -3,6 +3,7 @@
 
 ### Data ###
 data
+word2vec/model_param
 *.csv
 *.dat
 *.efx
