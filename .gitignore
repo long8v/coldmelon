@@ -16,7 +16,6 @@ word2vec/model_param
 *.tax2010
 *.vcf
 *.xml
-*.json
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
